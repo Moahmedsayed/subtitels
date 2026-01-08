@@ -1,0 +1,30 @@
+
+{
+  "short_name": "SawtToText",
+  "name": "SawtToText Pro: المترجم المحمول",
+  "description": "تطبيق احترافي لتحويل الصوت إلى نص وملفات ترجمة SRT",
+  "id": "/sawttotext-pro",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5968/5968263.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5968/5968263.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "minimal-ui"],
+  "theme_color": "#4f46e5",
+  "background_color": "#ffffff",
+  "dir": "rtl",
+  "lang": "ar-SA",
+  "orientation": "any",
+  "categories": ["productivity", "utilities"]
+}

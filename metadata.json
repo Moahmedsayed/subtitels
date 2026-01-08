@@ -1,0 +1,7 @@
+{
+  "name": "SawtToText Pro",
+  "description": "A high-performance audio transcription and translation tool that converts speech to text with timestamps and allows downloading SRT subtitle files, powered by Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
